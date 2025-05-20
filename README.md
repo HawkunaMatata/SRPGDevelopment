@@ -1,2 +1,2 @@
-# SRPGDevelopment
-Development progress on my third year SRPG game
+# Dungeons & Discord vertical slice SRPG
+Short vertical slice game, no longer than 30 minutes, created for final project at Royal Holloway Video Games Art & Design course. Features classic SRPG mechanics mixed with elements of D&D, visual novel style dialogue, and a quirky cast of characters each struggling with their own issues. Built using blueprints for rapid prototyping, conversion to C++ might take place in my own time. 
